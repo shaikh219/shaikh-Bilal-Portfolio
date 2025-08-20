@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Prof. A. K. Sharma",
+    "title": "Faculty Mentor, GEC Aurangabad",
+    "message": "Bilal is a quick learner and a dedicated student. His projects consistently reflect strong problem-solving skills and technical depth.",
+    "image": "/images/testimonial-aksharma.jpg"
+  },
+  {
+    "name": "Imran Shaikh",
+    "title": "Director, Nascency Pvt Ltd",
+    "message": "During his internship, Bilal demonstrated professionalism, creativity, and technical skill. He quickly adapted to our stack and contributed valuable code to live projects.",
+    "image": "/images/testimonial-imran.jpg"
+  },
+  {
+    "name": "Farheen Pathan",
+    "title": "Academic Coordinator, School of Scholars",
+    "message": "Bilal's ability to teach technical concepts clearly and his initiative in managing the school’s website made him an invaluable part of our team.",
+    "image": "/images/testimonial-farheen.jpg"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Sales Dashboard",
+    "description": "An Excel-based sales dashboard that visualizes monthly revenue, product category performance, and region-wise sales using pivot tables and charts.",
+    "image": "/images/sales-dashboard.png",
+    "technologies": ["Excel", "Pivot Table", "Charts"],
+    "github": "",
+    "demo": ""
+  },
+  {
+    "title": "Retail Pulse BI Dashboard",
+    "description": "An interactive Power BI dashboard designed for retail analytics, showcasing KPIs like revenue, profit, customer segments, and region-wise performance with slicers and drill-throughs.",
+    "image": "/images/retail-bi-dashboard.png",
+    "technologies": ["Power BI", "DAX", "Data Modeling"],
+    "github": "",
+    "demo": ""
+  },
+  {
+    "title": "SQL Insights - Customer Orders",
+    "description": "A SQL-based analytics project where multiple queries were used to extract insights from customer and order datasets using joins, aggregations, and CTEs.",
+    "image": "/images/sql-orders.png",
+    "technologies": ["SQL", "Joins", "Window Functions"],
+    "github": "",
+    "demo": ""
+  },
+  {
+    "title": "Loan Default Prediction",
+    "description": "A machine learning model that predicts the likelihood of loan default using logistic regression and random forest, based on financial and demographic data.",
+    "image": "/images/loan-prediction.png",
+    "technologies": ["Python", "Scikit-learn", "Pandas", "Matplotlib"],
+    "github": "https://github.com/shaikh219/loan-default-prediction",
+    "demo": ""
+  },
+  {
+    "title": "End-to-End Data Science Project: E-commerce Sales Analysis",
+    "description": "A full pipeline project including data collection (Excel), preprocessing (Python, Pandas), visualization (Power BI), and predictive modeling (ML) for forecasting future online sales performance.",
+    "image": "/images/ecommerce-sales-project.png",
+    "technologies": ["Excel", "Python", "SQL", "Power BI", "Machine Learning"],
+    "github": "https://github.com/shaikh219/ecommerce-data-science",
+    "demo": ""
+  }
+]

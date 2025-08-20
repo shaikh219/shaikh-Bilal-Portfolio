@@ -1,0 +1,61 @@
+[
+  {
+    "category": "Web Development",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Next.js",
+      "Tailwind CSS",
+      "TypeScript",
+      "PHP"
+    ]
+  },
+  {
+    "category": "Data Analysis & BI",
+    "skills": [
+      "Excel",
+      "Power BI",
+      "SQL",
+      "Pandas",
+      "Matplotlib",
+      "Data Cleaning",
+      "Data Visualization"
+    ]
+  },
+  {
+    "category": "Programming Languages",
+    "skills": [
+      "Python",
+      "Java",
+      "C",
+      "C++",
+      "JavaScript",
+      "SQL"
+    ]
+  },
+  {
+    "category": "Machine Learning",
+    "skills": [
+      "Scikit-learn",
+      "Logistic Regression",
+      "Random Forest",
+      "Model Evaluation",
+      "Data Preprocessing",
+      "Jupyter Notebook"
+    ]
+  },
+  {
+    "category": "Tools & Platforms",
+    "skills": [
+      "Git",
+      "GitHub",
+      "VS Code",
+      "Google Colab",
+      "XAMPP",
+      "Netlify",
+      "Vercel"
+    ]
+  }
+]

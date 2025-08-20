@@ -1,0 +1,45 @@
+:root {
+  /* Core colors */
+  --color-bg: #ffffff;
+  --color-text: #1f2937;
+  --color-primary: #2563eb;     /* blue-600 */
+  --color-secondary: #f59e0b;   /* amber-500 */
+  --color-accent: #22c55e;      /* green-500 */
+
+  /* Border radius */
+  --radius-sm: 0.25rem;
+  --radius: 0.5rem;
+  --radius-lg: 0.75rem;
+
+  /* Spacing and transitions */
+  --spacing: 1rem;
+  --transition: 0.3s ease;
+}
+
+/* Dark theme overrides (if using class-based dark mode) */
+.dark {
+  --color-bg: #0b0f19;
+  --color-text: #f1f5f9;
+  --color-primary: #3b82f6;     /* blue-500 */
+  --color-secondary: #fbbf24;   /* amber-400 */
+  --color-accent: #10b981;      /* green-400 */
+}
+
+/* Global body fallback (if not using Tailwind for this) */
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+}
+
+/* Utility button */
+.btn-custom {
+  background-color: var(--color-primary);
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: var(--radius);
+  transition: background-color var(--transition);
+}
+
+.btn-custom:hover {
+  background-color: var(--color-secondary);
+}

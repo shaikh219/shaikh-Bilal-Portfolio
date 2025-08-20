@@ -1,0 +1,44 @@
+{
+  "name": "shaikh-bilal-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "jest"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.21",
+    "emailjs-com": "^3.2.0",
+    "framer-motion": "^11.18.2",
+    "lottie-react": "^2.4.1",
+    "next": "14.1.0",
+    "next-themes": "^0.2.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.12.0",
+    "react-simple-typewriter": "^5.0.1",
+    "tailwindcss": "^3.4.17",
+    "three": "^0.178.0",
+    "vanta": "^0.5.24",
+    "zod": "^3.25.74"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.6",
+    "@tailwindcss/typography": "^0.5.10",
+    "@testing-library/jest-dom": "^6.1.5",
+    "@testing-library/react": "^14.1.2",
+    "@types/jest": "^29.5.5",
+    "@types/node": "20.11.30",
+    "@types/react": "18.2.21",
+    "@types/react-dom": "18.2.7",
+    "@types/three": "^0.178.1",
+    "eslint": "8.57.0",
+    "eslint-config-next": "14.1.0",
+    "jest": "^29.7.0",
+    "postcss": "^8.5.6",
+    "typescript": "5.4.5"
+  }
+}
