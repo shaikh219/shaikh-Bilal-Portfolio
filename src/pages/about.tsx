@@ -206,10 +206,10 @@ const About: React.FC = () => {
 
         <MotionWrapper id="about" className="relative z-10 max-w-4xl mx-auto text-center" delay={0.1}>
           <Image
-            src="/images/Profile.png"
+            src="/images/Profile.jpg"
             alt="Shaikh Bilal"
-            width={100}
-            height={100}
+            width={128}
+            height={128}
             className="mx-auto rounded-full border-4 border-blue-600 dark:border-blue-400 shadow-lg mb-6"
           />
 

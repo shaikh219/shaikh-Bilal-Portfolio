@@ -15,18 +15,18 @@ const projects = [
   {
     title: 'Portfolio Website',
     description: 'A personal portfolio built with Next.js, Tailwind CSS, and Framer Motion.',
-    image: '/images/projects/app.png',
+    image: '/images/Projects/portfolio.png',
     technologies: ['Next.js', 'Tailwind CSS', 'TypeScript'],
-    github: 'https://github.com/yourusername/portfolio',
-    demo: 'https://yourportfolio.com',
+    github: 'https://github.com/shaikh219/shaikh-Bilal-Portfolio',
+    demo: 'https://shaikh-bilal-portfolio.vercel.app/',
   },
   {
     title: 'Weather App',
     description: 'Real-time weather forecasting using OpenWeatherMap API.',
-    image: '/images/projects/app.png',
+    image: '/images/projects/Weather.png',
     technologies: ['React', 'API', 'CSS'],
     github: 'https://github.com/yourusername/weather-app',
-    demo: 'https://weather-demo.com',
+    demo: '',
   },
 ];
 
@@ -69,7 +69,7 @@ const Index: React.FC = () => {
         <MotionWrapper id="home" className="text-center" delay={0.1}>
           <div className="w-32 h-32 mx-auto mb-6 rounded-full border-4 border-purple-500 shadow-xl overflow-hidden">
             <img
-              src="/images/Profile.png"
+              src="/images/Profile.jpg"
               alt="Shaikh Bilal"
               className="object-cover w-full h-full"
             />
@@ -89,7 +89,7 @@ const Index: React.FC = () => {
             />
           </p>
           <p className="mt-4 text-lg max-w-2xl mx-auto text-gray-600 dark:text-purple-200">
-            Building responsive, performant, and user-focused web experiences using modern technologies.
+            I use data to uncover insights, build predictive models, and help businesses make smarter decisions with the help of analytics and machine learning.
           </p>
 
           <div className="w-full md:w-1/2 mx-auto mt-8">
@@ -103,7 +103,7 @@ const Index: React.FC = () => {
         <MotionWrapper id="about" delay={0.2}>
           <h2 className="text-3xl font-bold mb-6">About Me</h2>
           <p className="text-gray-700 dark:text-purple-200 leading-relaxed max-w-3xl">
-            I'm a developer passionate about solving problems with clean code and meaningful UI. I enjoy working across the stack and have experience building dynamic, accessible web applications using modern frameworks and cloud technologies.
+            I'm a data scientist passionate about turning complex data into actionable insights and intelligent solutions. I enjoy exploring data, building predictive models, and creating analytics tools that drive better decisions. My experience spans machine learning, statistical analysis, and cloud-based data pipelines.
           </p>
         </MotionWrapper>
         {/* Projects Section */}

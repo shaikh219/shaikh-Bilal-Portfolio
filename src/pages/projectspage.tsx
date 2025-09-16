@@ -12,8 +12,8 @@ const projects = [
     description: 'A personal portfolio built with Next.js, Tailwind CSS, and Framer Motion.',
     image: '/images/Projects/Portfolio.png',
     technologies: ['Next.js', 'Tailwind', 'TypeScript'],
-    github: 'https://github.com/shaikh219/Portfolio',
-    demo: 'https://yourportfolio.com',
+    github: 'https://github.com/shaikh219/shaikh-Bilal-Portfolio',
+    demo: 'https://shaikh-bilal-portfolio.vercel.app/',
   },
   {
     title: 'Weather App',

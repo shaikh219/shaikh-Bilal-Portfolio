@@ -87,9 +87,9 @@ React Icons
 Vercel
 
 📬 Contact
-📧 Email: your@email.com
+📧 Email: bilalbagmar@gamil.com
 
-🌐 LinkedIn: linkedin.com/in/yourusername
+🌐 LinkedIn: linkedin.com/in/
 
 Built with ❤️ by Shaikh Bilal
 
