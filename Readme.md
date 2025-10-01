@@ -2,7 +2,7 @@
 
 A dynamic, modern, and responsive portfolio website built using **Next.js**, **Tailwind CSS**, and **Framer Motion**, designed to showcase projects, skills, testimonials, and contact information. Content is fully data-driven via JSON, making updates easy and scalable.
 
-![Demo Screenshot](./public/images/portfolio.png)
+![Demo Screenshot](Public/images/Projects/Portfolio.png)
 
 ---
 
