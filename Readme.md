@@ -89,7 +89,7 @@ Vercel
 📬 Contact
 📧 Email: bilalbagmar@gamil.com
 
-🌐 LinkedIn: linkedin.com/in/
+🌐 LinkedIn: linkedin.com/in/shaikh-bilal-bagmar219
 
 Built with ❤️ by Shaikh Bilal
 
