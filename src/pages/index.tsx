@@ -69,7 +69,7 @@ const Index: React.FC = () => {
         <MotionWrapper id="home" className="text-center" delay={0.1}>
           <div className="w-32 h-32 mx-auto mb-6 rounded-full border-4 border-purple-500 shadow-xl overflow-hidden">
             <img
-              src="Public/images/Profile.jpg"
+              src="/images/Profile.jpg"
               alt="Shaikh Bilal"
               className="object-cover w-full h-full"
             />
