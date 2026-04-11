@@ -56,8 +56,8 @@ src/
 
 1. **Clone the repo:**
 
-   git clone https://github.com/shaikh219/portfolio.git
-   cd portfolio
+git clone https://github.com/shaikh219/portfolio.git
+cd portfolio
 Install dependencies:
 npm install
 Run locally:
@@ -89,7 +89,7 @@ Vercel
 📬 Contact
 📧 Email: bilalbagmar@gamil.com
 
-🌐 LinkedIn: linkedin.com/in/shaikh-bilal-bagmar219
+🌐 LinkedIn: www.linkedin.com/in/shaikh-bilal-bagmar219
 
 Built with ❤️ by Shaikh Bilal
 
